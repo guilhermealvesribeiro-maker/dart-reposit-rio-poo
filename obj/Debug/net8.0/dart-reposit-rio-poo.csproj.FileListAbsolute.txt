@@ -1,0 +1,5 @@
+/workspaces/dart-reposit-rio-poo/obj/Debug/net8.0/dart-reposit-rio-poo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dart-reposit-rio-poo/obj/Debug/net8.0/dart-reposit-rio-poo.AssemblyInfoInputs.cache
+/workspaces/dart-reposit-rio-poo/obj/Debug/net8.0/dart-reposit-rio-poo.AssemblyInfo.cs
+/workspaces/dart-reposit-rio-poo/obj/Debug/net8.0/dart-reposit-rio-poo.csproj.CoreCompileInputs.cache
+/workspaces/dart-reposit-rio-poo/obj/Debug/net8.0/dart-reposit-rio-poo.sourcelink.json

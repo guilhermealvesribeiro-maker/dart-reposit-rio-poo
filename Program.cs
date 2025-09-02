@@ -1,2 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+{
+televisao tv = new televisao(55f);
+Consoclearle.WriteLine($"a tv tem o tamanho {tv.tamanho}");
+
+
+
+}

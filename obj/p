@@ -1,0 +1,3 @@
+televisao tv = new televisaoI()
+tv. tamanho = 22.5f;
+consolke.writeline($"a tv tem o tamanho {tv.tamanho}");
